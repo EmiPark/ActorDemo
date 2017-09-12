@@ -1,0 +1,11 @@
+﻿  Actor2.cpp
+c:\codingworkspace\c++\actor\actor2\actor2.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor2\actor2.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor2\actor2.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor2\actor2.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor2\actor2.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor2\actor2.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor2\actor2.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor2\actor2.cpp(102): warning C4715: “int2charcter”: 不是所有的控件路径都返回值
+  Actor2.vcxproj -> C:\CodingWorkspace\C++\Actor\Debug\Actor2.exe
+  Actor2.vcxproj -> C:\CodingWorkspace\C++\Actor\Debug\Actor2.pdb (Full PDB)

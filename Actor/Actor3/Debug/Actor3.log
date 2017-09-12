@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Actor3.cpp
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\actor\actor3\actor3.cpp(151): warning C4715: “int2charcter”: 不是所有的控件路径都返回值
+  Actor3.vcxproj -> C:\CodingWorkspace\C++\Actor\Debug\Actor3.exe
+  Actor3.vcxproj -> C:\CodingWorkspace\C++\Actor\Debug\Actor3.pdb (Full PDB)
